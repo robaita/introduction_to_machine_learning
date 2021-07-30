@@ -4,6 +4,9 @@ This repository consists of basic introduction of python and machine learning. I
   <li>Introduction to Machine Learning</li>
   <li>Machine Learning Applications</li>
   <li>Hands on experience with Python</li>
+  <ul>
+    <li> [Installing Python](https://github.com/robaita/introduction_to_machine_learning/blob/main/Python_Installation.md) </li>
+  </ul>
  </ul>
 <hr> 
 <ul>
